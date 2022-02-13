@@ -1,0 +1,5 @@
+Notes:
+
+*QR Code must only have four components.
+*It must be formatted like(1,2,3,4).
+*It strictly must not have spaces after commas.
